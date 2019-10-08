@@ -13,7 +13,7 @@ Desktop Browser
 Temuwehat returned to his domain after a long journey, only to find that his children had been slain and his throne stolen by the vile
             Lady Weezalamos! Now, Temuwehat must take up his sacred sword once again in order to exact his revenge and reclaim his throne. 
 ## Aesthetics
-Aesthetics will include pixellated animals wearing clothes remniscent of cultures in Asia and, specifically, the Himalayas. The game with feature lots of cartoon blood and over-the-top action for humorous effect. All sprites used in the game will be made in Asperite.
+Visuals will include pixellated animals wearing clothes remniscent of cultures in Asia and, specifically, the Himalayas. Temuwehat himself appears as a red panda sprite with an icy sword, known as the Wintershard, strapped to his back with a belt. The game with feature lots of cartoon blood and over-the-top action for humorous effect. All sprites used in the game will be made in Asperite.
 
 ## Gameplay
 
