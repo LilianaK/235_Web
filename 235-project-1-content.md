@@ -24,4 +24,4 @@ The player controls Temuwehat, a master of warfare. They can move left and right
 A character will taunt Temuwehat at the beginning of the game, questioning his power. However, it will also slip in the player controls in their dialogue. It's a simple game that doesn't require a lot of skills to learn, though, and should be fairly intuitive.
 
 ## About the Developer
-Liliana Klein, Bachelor of Science in Game Design & Development. Skilled at writing and design, and proficient in the fields of programming and 3D Modeling. 
+"Return of the Crimson King" by Liliana Klein, Bachelor of Science in Game Design & Development. Skilled at writing and design, and proficient in the fields of programming and 3D Modeling. 
